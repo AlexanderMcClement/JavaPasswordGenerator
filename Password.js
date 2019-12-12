@@ -10,3 +10,9 @@ if (userPasswordLength < 8) {
 
 
 }
+
+if (userPasswordLength > 128) {
+    alert('not small then number 128')
+
+
+}
