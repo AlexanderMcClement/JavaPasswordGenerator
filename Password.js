@@ -12,3 +12,6 @@ var wantSpecialCharacter = confirm('Do you want a special Character?')
 
 console.log(wantSpecialCharacter)
 
+var wantNumberCharacter = confirm('Do you wabs a Number?')
+
+console.log(wantNumberCharacter)
