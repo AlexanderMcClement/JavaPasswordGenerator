@@ -12,6 +12,14 @@ var wantSpecialCharacter = confirm('Do you want a special Character?')
 
 console.log(wantSpecialCharacter)
 
-var wantNumberCharacter = confirm('Do you wabs a Number?')
+var wantNumberCharacter = confirm('Do you wants a Number?')
 
 console.log(wantNumberCharacter)
+
+var wantLowerCaseCharacter = confirm('Would you like a lower case letter?')
+
+console.log(wantLowerCaseCharacter)
+
+var wantUppercaseCharacter = confirm('Would you also like an upper case letter?')
+
+console.log(wantUppercaseCharacter)
